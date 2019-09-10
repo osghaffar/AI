@@ -1,2 +1,2 @@
 # AI
-Artificial Intelligence/Machine Learning Projects
+Artificial Intelligence/Machine Learning projects, mostly for learning
